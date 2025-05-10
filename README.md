@@ -16,3 +16,12 @@ the port no etc.
 
 So i decided to make a GUI for it bc i didnt find any on the internet.
 The current version of it somehow fulfils the basic need of my use case.
+
+## How to use 
+1. download folder and move it to 
+~/.local/share/applications
+
+open .desktop file and edit path in it to your pc.
+reboot and you will find the icon in menu.
+
+2. just put the proftp-gtk.py on desktop and open from it. (you will need to make it executable)
