@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ProFTPD Frontend
+Comment=Graphical frontend to manage ProFTPD server
+Exec=/home/bharat/Documents/gtk-proftp/proftp-gtk.py
+Icon=/home/bharat/Documents/gtk-proftp/icon/proftpd.jpg
+Terminal=false
+Categories=System;Network;GTK;
+StartupNotify=true
